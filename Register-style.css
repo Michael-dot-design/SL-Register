@@ -1,0 +1,83 @@
+.all{
+    width: 100%;
+    height: 700px;
+    border: 10px solid #EEEEEE;
+    background-color: #648296;
+}
+.left{
+    float: left;
+    width: 300px;
+    height: 100%;
+}
+.left .p1{
+    color: #6CACD8;
+    font-size: 26px;
+    margin-left: 18px;
+}
+.left .p2{
+    color: #a6a6a6;
+    font-size: 18px;
+    margin-left: 18px;
+}
+.left .p3{
+    color: #a6a6a6;
+    font-size: 15px;
+    margin-left: 18px;
+}
+.left .iconfont{
+    font-size: 22px;
+    margin-left: 18px;
+}
+.left a{
+    text-decoration: none;
+}
+.left a:hover{
+    color: #ff6700;
+}
+.center{
+    float: left;
+    width: 600px;
+    height: 100%;
+    margin-top: 40px;
+}
+.center table{
+    width: 100%;
+    height:500px;
+}
+.cell1{
+    text-align: right;
+    padding-right: 20px;
+}
+.cell2{
+    width: 220px;
+    height: 26px;
+    border: 1px solid grey;
+    border-radius: 6px;
+    outline: none;
+}
+.cell3{
+    width: 150px;
+    height: 40px;
+    background-color: #6CACD8;
+    border: 1px solid #6CACD8;
+    border-radius: 20px;
+}
+.cell3:hover{
+    color: #ffc0cb;
+}
+.cell4{
+    width: 100px;
+}
+.right{
+    float: left;
+    width: 150px;
+    height: 100%px;
+}
+.right p{
+    color: #6CACD8;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.right p a{
+    color: #ffc0cb;
+}
